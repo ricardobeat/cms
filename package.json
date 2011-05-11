@@ -1,0 +1,15 @@
+{
+  "author": "Ricardo Tomasi <ricardobeat@gmail.com> (http://ricardo.cc)",
+  "name": "CMS",
+  "description": "node.js cms",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricardobeat/cms.git"
+  },
+  "engines": {
+    "node": "~0.4.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
